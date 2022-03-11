@@ -1,0 +1,14 @@
+.section {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: flex-start;
+  padding-left: 10px;
+  background-color: rgb(218, 211, 194);
+}
+
+.text {
+  margin: 5px;
+  font-size: 20px;
+}
