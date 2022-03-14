@@ -5,7 +5,9 @@
   margin: 0 auto;
   align-items: flex-start;
   padding-left: 10px;
-  background-color: rgb(218, 211, 194);
+  background-color: rgb(218, 194, 216);
+  border: 1px solid grey;
+  border-radius: 4px;
 }
 
 .text {
